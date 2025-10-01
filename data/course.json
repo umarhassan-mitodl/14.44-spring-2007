@@ -50,6 +50,7 @@
     "website": "14-44-energy-economics-spring-2007"
   },
   "course_title": "Energy Economics",
+  "hide_download": true,
   "course_description": "This course explores the theoretical and empirical perspectives on individual and industrial demand for energy, energy supply, energy markets, and public policies affecting energy markets. It discusses aspects of the oil, natural gas, electricity, and nuclear power sectors and examines energy tax, price regulation, deregulation, energy efficiency and policies for controlling emission.\n",
   "department_numbers": [
     "14"
@@ -60,6 +61,7 @@
     "content": "04d1390d-8179-c83e-343c-93f9ab1f987b",
     "website": "14-44-energy-economics-spring-2007"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets with Solutions"
   ],

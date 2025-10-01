@@ -3,6 +3,8 @@ content_type: page
 description: The syllabus contains an overview and list of materials for the course,
   grading criteria and participation guidelines.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,7 +18,7 @@ Recitations: 1 session / week, 1.5 hours / session
 
 ## Prerequisite
 
-{{% resource_link "f2260ca4-a4ec-4251-bfcf-3900eec05856" "_14.01 Principles of Microeconomics_" %}} or an equivalent intermediate microeconomics course taken elsewhere.
+[_14.01 Principles of Microeconomics_](https://ocw.mit.edu/courses/economics/14-01-principles-of-microeconomics-fall-2018/) or an equivalent intermediate microeconomics course taken elsewhere.
 
 ## Requirements
 

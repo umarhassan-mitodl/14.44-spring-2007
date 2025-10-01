@@ -4,6 +4,8 @@ description: Solutions to assigned homework problems.
 file: /courses/14-44-energy-economics-spring-2007/f8523a6d045c38698665a17d62b8bcf3_sol_ps3.pdf
 file_size: 63890
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
