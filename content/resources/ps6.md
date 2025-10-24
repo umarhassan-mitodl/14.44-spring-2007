@@ -4,8 +4,6 @@ description: Homework assignment.
 file: /courses/14-44-energy-economics-spring-2007/92bf5804b449bff414703a6af711225b_ps6.pdf
 file_size: 22459
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
